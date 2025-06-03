@@ -10,6 +10,7 @@ const BannerDiv = styled.div`
   height: 328px;
   background-size: cover;
 `;
+//teste
 
 const TextoEstilizado = styled.div`
   display: flex;
